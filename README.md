@@ -22,11 +22,11 @@ An AI-powered web platform integrating IoT monitoring, machine learning crop rec
 
 | Home Page | Dashboard | Seed Guide |
 |-----------|-----------|------------|
-| ![Home](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Seeds](screenshots/seeds.png) |
+| ![Home](images/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Seeds](screenshots/seeds.png) |
 
 | Expense Tracker | Weather Forecast | Contact |
 |-----------------|------------------|---------|
-| ![Finance](screenshots/finance.png) | ![Weather](screenshots/weather.png) | ![Contact](screenshots/contact.png) |
+| ![Finance](images/Expense.png) | ![Weather](images/Weather.png) | ![Contact](screenshots/contact.png) |
 
 ---
 
