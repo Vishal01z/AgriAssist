@@ -22,7 +22,7 @@ An AI-powered web platform integrating IoT monitoring, machine learning crop rec
 
 | Home Page | Dashboard | Seed Guide |
 |-----------|-----------|------------|
-| ![Home](images/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Seeds](screenshots/seeds.png) |
+| ![Home](images/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Seeds](images/data.png) |
 
 | Expense Tracker | Weather Forecast | Contact |
 |-----------------|------------------|---------|
